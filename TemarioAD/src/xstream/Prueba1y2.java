@@ -2,6 +2,11 @@ package xstream;
 
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.xml.DomDriver;
+import ejercicio.ej3;
+import xstream.transparencias.Autor;
+import xstream.transparencias.Libro;
+import xstream.transparencias.Persona;
+import xstream.transparencias.Telefono;
 
 public class Prueba1y2 {
 
